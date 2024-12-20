@@ -1,15 +1,27 @@
 .header {
-    color: green;
+    margin: 50px;
+}
+
+.header {
     text-align: center;
-    position: relative;
+    font-size: 30px;
+}
+
+.header-1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.Box {
+    margin: 50px;
 }
 
 .Box {
     color: red;
     text-align: center;
-    background-color: wheat;
+    background-color: bisque;
     border-radius: 20px;
-    padding: 100px
 }
 
 .leter {
@@ -17,29 +29,148 @@
 }
 
 .party {
-    text-align: center;
+    margin: 50px;
 }
+
+.party {
+    margin: 20px;
+}
+
+.box {
+    position: absolute;
+    font-size: 80px;
+    color: aliceblue;
+}
+
+.box-1 {
+    position: absolute;
+    color: aliceblue;
+}
+
+.box-2 {
+    position: absolute;
+    color: aliceblue;
+}
+
 
 .middle {
     text-align: center;
-    background-color: rgb(224, 163, 163);
+    background-color: rgb(228, 199, 199);
     height: 400px;
     width: 1000px;
     border-radius: 20px;
+    margin: 50px;
+}
+
+.enjoy {
+    color: aliceblue;
+    background-color: red;
+}
+
+.submit {
+    color: red;
+}
+
+.Thee {
+    color: red;
+}
+
+.mango {
+    color: red;
+}
+
+.Movie {
+    color: black;
+}
+
+.Moana {
+    color: black;
+}
+
+.Nova {
+    color: black;
+}
+
+.headach {
+    color: red;
+}
+
+.pain {
+    font-size: 200%;
 }
 
 .box-item-1 {
-    background-color: rgb(239, 175, 175);
-    text-align: center;
     border-radius: 20px;
-    width: 600px;
-    height: 200px;
+    margin: 50px;
+    line-height: 10%;
 }
 
-.box-item-2 {
-    background-color: rgb(239, 175, 175);
-    text-align: center;
+.rude {
+    margin: 200px;
+    background-color: antiquewhite;
     border-radius: 20px;
-    width: 600px;
-    height: 200px;
+    box-sizing: border-box;
+    height: 500px;
+    width: 1000px;
+}
+
+.picture-1 {
+    text-align: center;
+}
+
+.picture {
+    text-align: center;
+    font-size: 40px;
+}
+
+.photo {
+    text-align: center;
+}
+
+.Maurya {
+    background-color: rgb(221, 63, 5)
+}
+
+.time-wast {
+    font-size: 20px;
+}
+
+.goal {
+    font-size: 50px;
+}
+
+.faltu {
+    color: red;
+}
+
+.vallagena {
+    line-height: 10%;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 50px;
+
+}
+
+.lemon {
+    text-align: right;
+}
+
+.mourning {
+    background-color: black;
+}
+
+.odd {
+    color: aliceblue;
+    font-size: 150%;
+    justify-content: center;
+}
+
+.mourning {
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    height: 500px;
+    width: 1000px;
 }
