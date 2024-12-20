@@ -1,0 +1,45 @@
+.header {
+    color: green;
+    text-align: center;
+    position: relative;
+}
+
+.Box {
+    color: red;
+    text-align: center;
+    background-color: wheat;
+    border-radius: 20px;
+    padding: 100px
+}
+
+.leter {
+    color: black;
+}
+
+.party {
+    text-align: center;
+}
+
+.middle {
+    text-align: center;
+    background-color: rgb(224, 163, 163);
+    height: 400px;
+    width: 1000px;
+    border-radius: 20px;
+}
+
+.box-item-1 {
+    background-color: rgb(239, 175, 175);
+    text-align: center;
+    border-radius: 20px;
+    width: 600px;
+    height: 200px;
+}
+
+.box-item-2 {
+    background-color: rgb(239, 175, 175);
+    text-align: center;
+    border-radius: 20px;
+    width: 600px;
+    height: 200px;
+}
