@@ -143,6 +143,37 @@
     color: red;
 }
 
+.come {
+    display: flex;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: 5%;
+}
+
+.go {
+    display: flex;
+}
+
+.click-me {
+    line-height: normal;
+}
+
+.apple {
+    color: red;
+    font-size: medium;
+}
+
+.guava {
+    font-size: 200%;
+    display: table-column;
+}
+
+
+
+.coffee {
+    color: red;
+}
+
 .vallagena {
     line-height: 10%;
     border-radius: 20px;
@@ -160,15 +191,11 @@
     background-color: black;
 }
 
-.odd {
-    color: aliceblue;
-    font-size: 150%;
-    justify-content: center;
-}
 
 .mourning {
-    justify-content: space-around;
-    margin: 20px;
+    justify-content: centert;
+    text-align: center;
+    margin: 50px;
     padding: 20px;
     border-radius: 20px;
     height: 500px;
